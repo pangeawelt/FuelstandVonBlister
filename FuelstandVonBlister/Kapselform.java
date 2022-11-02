@@ -7,7 +7,7 @@ public class Kapselform extends Medikamentenform{
         this.gelMengelnIng=gelMengelnIng;
     }
 
-    @Override //vergiss nicht Override zu schreiben im Pruefung!!!!
+    @Override //
     public String wirkstoffreisetzung() {
         return null;
     }
